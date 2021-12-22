@@ -43,6 +43,6 @@ variable "tags" {
     default = {
         "Terraform" = "true"
         "Environment" = "dev"
-        "CreatedBy" = "yono"
+        "CreatedBy" = "Tsubekti"
     }
 }
